@@ -1,0 +1,41 @@
+body {
+      background-color: black
+}
+hr {
+     border-style: dotted none none;
+     border-color: red;
+     border-width: 5px;
+     width: 30%
+}
+.name:hover {
+  color: gold
+}
+h1 {
+  color: red;
+  font-size: 50px
+}
+h2 {
+  font-size: 30px
+}
+h3 {
+  color: red;
+}
+table {
+  color: red;
+}
+ol {
+  color: red;
+}
+ul {
+  color: red;
+}
+form {
+  color: red;
+}
+p {
+  color: red;
+  font-size: 20px;
+}
+.heading {
+  color: Blue;
+}
